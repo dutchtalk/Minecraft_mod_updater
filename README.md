@@ -2,6 +2,7 @@
 This is a simple mod updater for Minecraft. (Currently only in Dutch but I may add English in the future)
 
 It's written in C# using Microsoft Visual Studio 2017
+
 It uses the following [NuGet](https://www.nuget.org/) packages
 * [DotNetZip v1.10.1](https://www.nuget.org/packages/DotNetZip/)
 * [Fody v2.1.0](https://www.nuget.org/packages/Fody/)
